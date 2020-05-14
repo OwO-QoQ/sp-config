@@ -6,7 +6,9 @@ spring:
     port: 5672
     username: admin
     password: admin  
-#server:#  port: 8001
+#server:
+#  port: 8801
+#11111111111111111111
 
 eureka:
   instance:
